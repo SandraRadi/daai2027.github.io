@@ -15,7 +15,7 @@ In the USA, the ZHAW students will be staying on campus at the Grand Valley Stat
 
 **How is the flight booking handled?**
 
-ZHAW students need to book and pay the return flight to Chicago by themselves. They are also responsible for arranging the transfer from Chicago to Allendale. Please wait for flight bookings until the organizers have confirmed the conduction of summer school 2026, which will be communicated end of February 2026.
+ZHAW students need to book and pay the return flight to Chicago by themselves. They are also responsible for arranging the transfer from Chicago to Allendale. Please wait for flight bookings until the organizers have confirmed the conduction of summer school 2027, which will be communicated end of February 2027.
 
 **How can I reach Allendale from Chicago?**
 

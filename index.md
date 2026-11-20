@@ -9,11 +9,11 @@ layout: home
     <img src="/assets/images/GVSU_Logo.png" alt="GVSU Logo" width="auto" height="100" style="margin-bottom: 20px;">
 </div>
 
-# Summer School 2026 on Data Analytics and Artificial Intelligence 
+# Summer School 2027 on Data Analytics and Artificial Intelligence 
 
-**Dates:** ❌ **The event 2026 has been cancelled.** ❌
+**Dates:** to be announced
 
-**Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland (28 June-11 July), <br> 2 weeks on Grand Valley State University campus, USA (12 July–25 July)
+**Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland, <br> 2 weeks on Grand Valley State University campus, USA (exact dates to be announced)
 
 **Collaboration:** <a href="https://www.zhaw.ch/en/engineering/" target="_blank" rel="noopener noreferrer">ZHAW School of Engineering</a>
 and <a href="https://www.gvsu.edu/engineering/" target="_blank" rel="noopener noreferrer">Grand Valley State University (GVSU)</a>
@@ -38,14 +38,14 @@ year/ 4th semester after consultation with their respective programme directors.
 
 **Costs:** 2'700 - 3'200 CHF (depends on the number of participants and includes fee, boarding and flight costs)
 
-**Registration Deadline:** 20th February 2026
+**Registration Deadline:** to be announced
 
 **Application Form and Further Information:**
 
-<a href="assets/images/Anmeldeformular_Summer School_DAAI_2026.docx" target="_blank" rel="noopener noreferrer">Application Form</a>
+<a href="assets/images/Anmeldeformular_Summer School_DAAI_2026.docx" target="_blank" rel="noopener noreferrer">Application Form</a> (2026 version, the 2027 version will follow)
 
-On the Intranet <a href="https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools" target="_blank" rel="noopener noreferrer">Summer School 2026 information and registration</a>
+On the Intranet <a href="https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools" target="_blank" rel="noopener noreferrer">Summer School 2027 information and registration</a>
 
-Have a look at the <a href="assets/images/Infosheet_GVSU Summer School_2026_.pdf" target="_blank" rel="noopener noreferrer">Informationsheet</a>
+Have a look at the <a href="assets/images/Infosheet_GVSU Summer School_2026_.pdf" target="_blank" rel="noopener noreferrer">Informationsheet</a> (2026 version, the 2027 version will follow)
 
 ![Impression2](/assets/images/2024_GVSU.png)

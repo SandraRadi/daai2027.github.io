@@ -19,7 +19,7 @@ The project work will last for the entire duration of the summer school, at ZHAW
 Topical and touristic excursion complement the academic curriculum.
 
 ## Program
-The 2026 programm will be similiar to the 2025 edition. Please find the programm of the 2025 edition below. The final programm for Summer 2026 will be released in 2026.
+The 2027 programme will be similar to the 2025 edition. Please find the programme of the 2025 edition below. The final programme for Summer 2027 will be released in 2027.
 
 ### Week 1 at ZHAW: Data Engineering, lecturer: Dr. Jonathan Fürst 
 
